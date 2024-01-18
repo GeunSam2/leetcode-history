@@ -1,2 +1,3 @@
 # leetcode-history
-problems i solved
+
+My history about challenage to algorithm at leetcode
